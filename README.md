@@ -18,6 +18,9 @@ others:
 - top.step 
 - bottom.step
 
+### final product
+![image](images/finalhackapad.png)
+
 
 
 Schematic            |  PCB         |   Case
