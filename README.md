@@ -19,7 +19,9 @@ others:
 - bottom.step
 
 ### final product
-![image](images/finalhackapad.png)
+![image](images/final-hackapad.png)
+
+
 
 
 
