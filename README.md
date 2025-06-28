@@ -27,4 +27,4 @@ others:
 
 schematic            |  pcb         |   case
 :-------------------------:|:-------------------------:|:-------------------------:|
-![image](images/schematicv2png.png)    |  ![image](images/pcb.png)  | ![image](images/fuscion.png)
+![image](images/schematic.v2png.png)    |  ![image](images/pcb.png)  | ![image](images/fuscion.png)
