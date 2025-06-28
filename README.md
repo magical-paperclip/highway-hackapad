@@ -19,7 +19,7 @@ others:
 - bottom.step
 
 ### final product
-![image](images/final-hackpad.png)
+![image](images/final-hackpads.png)
 
 
 
