@@ -22,8 +22,8 @@ others:
 ![image](images/best-render.png)
 
 
-
-
+### info:
+the pcb will be secured to the case w double sided tape to prevent it from falling out
 
 schematic            |  pcb         |   case
 :-------------------------:|:-------------------------:|:-------------------------:|
